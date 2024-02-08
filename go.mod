@@ -1,6 +1,6 @@
 module github.com/Joe-Hendley/StartTheBotAlready-Go
 
-go 1.20
+go 1.22
 
 require (
 	github.com/bwmarrin/discordgo v0.27.1
